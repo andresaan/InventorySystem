@@ -1,0 +1,11 @@
+C:\Users\aasan\OneDrive\Desktop\DEV\InventoryManagementSystem\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\aasan\OneDrive\Desktop\DEV\InventoryManagementSystem\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\aasan\OneDrive\Desktop\DEV\InventoryManagementSystem\Infrastructure\bin\Debug\Data.dll
+C:\Users\aasan\OneDrive\Desktop\DEV\InventoryManagementSystem\Infrastructure\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aasan\OneDrive\Desktop\DEV\InventoryManagementSystem\Infrastructure\bin\Debug\Data.pdb
+C:\Users\aasan\OneDrive\Desktop\DEV\InventoryManagementSystem\Infrastructure\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aasan\OneDrive\Desktop\DEV\InventoryManagementSystem\Infrastructure\obj\Debug\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\aasan\OneDrive\Desktop\DEV\InventoryManagementSystem\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\aasan\OneDrive\Desktop\DEV\InventoryManagementSystem\Infrastructure\obj\Debug\Infrastructure.csproj.CopyComplete
+C:\Users\aasan\OneDrive\Desktop\DEV\InventoryManagementSystem\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\aasan\OneDrive\Desktop\DEV\InventoryManagementSystem\Infrastructure\obj\Debug\Infrastructure.pdb

@@ -1,0 +1,6 @@
+C:\Users\aasan\OneDrive\Desktop\DEV\InventoryManagementSystem\Data\bin\Debug\Data.dll
+C:\Users\aasan\OneDrive\Desktop\DEV\InventoryManagementSystem\Data\bin\Debug\Data.pdb
+C:\Users\aasan\OneDrive\Desktop\DEV\InventoryManagementSystem\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\aasan\OneDrive\Desktop\DEV\InventoryManagementSystem\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\aasan\OneDrive\Desktop\DEV\InventoryManagementSystem\Data\obj\Debug\Data.dll
+C:\Users\aasan\OneDrive\Desktop\DEV\InventoryManagementSystem\Data\obj\Debug\Data.pdb
